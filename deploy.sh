@@ -1,4 +1,4 @@
-deploy java application
+deploy java application for users
 python applications
 bash scripting
 deploy in the dev env
