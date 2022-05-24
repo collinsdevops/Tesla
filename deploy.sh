@@ -6,6 +6,7 @@ trying something
 deployment5 master
 deployment4
 deployment the app to staging area
+deploy from jboss
 tested and accepted
 echo good job
 bug successfully removed 
