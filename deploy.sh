@@ -8,3 +8,4 @@ deployment4
 deployment the app to staging area
 tested and accepted
 echo good job
+bug successfully removed 
