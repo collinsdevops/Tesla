@@ -8,5 +8,6 @@ deployment4
 deployment the app to staging area
 deploy from jboss
 tested and accepted
+just a trial
 echo good job
 bug successfully removed 
